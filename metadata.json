@@ -1,10 +1,10 @@
 {
   "name": "hypixel-auction-flipper",
-  "version": "0.6.9",
+  "creator": "Synaps",
   "description": "Hypixel Skyblock Auction House Flip Notifier",
+  "version": "0.6.9",
   "entry": "index.js",
-  "author": "DuckySoLucky",
-  "dependencies": [
+  "requires": [
     "axios",
     "copy-paste",
     "discord.js",
